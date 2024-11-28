@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <div id="schwi">
-    <img src="schwi.gif" width="300"/>
+    <img src="/schwi.gif" width="300"/>
   </div>
   <div>
 
