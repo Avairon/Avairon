@@ -1,5 +1,4 @@
-.header {display:inline-block;}
-<div id="header">
+<div id="header" display="inline-block">
   <div id="shuwi">
     <img src="shuwi.gif" width="100"/>
   </div>
