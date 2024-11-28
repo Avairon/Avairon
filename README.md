@@ -7,7 +7,7 @@ I'm schwi fan
 ## 🌐Socials
 
 <a href="htttps://discord.gg/https://discord.gg/cKQUs5dyh8">
-  <img src="[images/cat.jpg](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)" width="600" height="200" width="600">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" width="600" height="200" width="600">
 </a>
 
 # 💻Tech Stack
