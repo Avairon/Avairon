@@ -1,8 +1,8 @@
-# 💫About Me :
-I'm student
-I like arduino
-I'm linux user
-I'm schwi fan
+# 💫About Me :  
+I'm student  
+I like arduino  
+I'm linux user  
+I'm schwi fan  
 
 <img src="/schwi.gif" width="300"/>
 
