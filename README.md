@@ -11,7 +11,7 @@ I'm schwi fan
 # 📊GitHub Stats & Trophies:
 ![](https://github-readme-stats.vercel.app/api?username=Avairon&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&background=000000&ring=7000a6&fire=7000a6&currStreakLabel=8000c1)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Avairon&theme=highcontrast&hide_border=true&background=000000&ring=7000a6&fire=7000a6&currStreakLabel=8000c1)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avairon&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact&background=000000&ring=7000a6&fire=7000a6&currStreakLabel=8000c1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avairon&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact&background=000000&ring=7000a6&fire=7000a6&currStreakLabel=8000c1)</br>
 ![](https://github-trophies.vercel.app/?username=Avairon&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 ## Schwi
 
