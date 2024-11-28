@@ -4,8 +4,6 @@ I like arduino
 I'm linux user  
 I'm schwi fan  
 
-<img src="/schwi.gif" width="300"/>
-
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/cKQUs5dyh8) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@AvaironX) 
 
@@ -19,6 +17,6 @@ I'm schwi fan
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Avairon&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+## Schwi
 
-
-
+<img src="/schwi.gif" width="300"/>
