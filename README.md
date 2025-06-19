@@ -1,5 +1,5 @@
 # 💫About Me :  
-I'm schwi fan  
+I'm schwi fan !
 
 ## 🌐Socials
 
