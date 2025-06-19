@@ -1,7 +1,4 @@
 # 💫About Me :  
-I'm student  
-I like arduino  
-I'm linux user  
 I'm schwi fan  
 
 ## 🌐Socials
